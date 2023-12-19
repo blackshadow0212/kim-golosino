@@ -1,0 +1,31 @@
+body {
+    background-image: url(https://www.roadracingworld.com/wp-content/uploads/rrw/d4834178-b09b-4db0-b332-420e7511d908.jpg);
+    background-repeat:no-repeat;
+    background-size: cover;
+    background-position: 0%;
+}
+
+
+P {
+    color:aqua
+}
+
+.kim {
+    text-decoration:none;
+    padding: 20px;
+    box-shadow: 0 2px;
+    color: lightgreen;
+}
+
+.design2 {
+    text-align: center;
+    margin: 90px;
+    font-size: 50px;
+
+}
+h2{
+    color: azure;
+}
+.header{
+    color: bisque;
+}

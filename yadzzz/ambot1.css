@@ -1,0 +1,39 @@
+body {
+    background-color: lightcoral;
+}
+.kim {
+    text-decoration: none;
+    padding: 20px;
+    box-shadow: 0 2px;
+    color: lightgreen;
+}
+
+.kim2 {
+    text-align: center;
+}
+
+.container{
+    display: flex;
+}
+
+.motor-container{
+    margin: auto;
+    
+}
+
+h2 {
+    text-align: center;
+    text-shadow: 2px 2px black, 1px 1px violet;
+    font-size: 50px;
+}
+
+p {
+    font-size: 40px;
+    display: inline;
+    text-align: center;
+}
+
+.image1 {
+   display: inline;
+}
+

@@ -1,0 +1,70 @@
+body {
+    background-image: url(https://www.roadracingworld.com/wp-content/uploads/rrw/c927887a-e907-44f0-a03a-d31d215c0774.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-position: relative;
+    margin-bottom: 200px;
+}
+#pol {
+    display: block;
+    color: lightgreen;
+}
+
+.roller {
+    margin: auto;
+    text-align: center;
+    align-items: center;
+    opacity: 1;
+    height: 290px;
+    padding: 10px;
+    border: 2px solid;
+    width: 30%;
+    margin: 200px;
+    margin-left: 35%;
+    border-color:lightgreen
+    
+    
+    
+}
+
+input {
+    border-radius: 10px;
+    padding: 5px;
+    width: 20vw;
+    display: block;
+    margin: auto;
+    background: white;
+}
+
+button {
+    border-radius: 30px;
+    font-size: 18px;
+    cursor: pointer;
+    display: block;
+    margin: auto;
+    width: 150px;
+}
+
+.register123 {
+   text-decoration: none;
+   display: inline;
+}
+
+
+p {
+    color: lightgreen;
+}
+
+a {
+    color: blue;
+}
+
+input::placeholder {
+    color: black;
+}
+
+a:hover {
+    color: pink;
+}
+
